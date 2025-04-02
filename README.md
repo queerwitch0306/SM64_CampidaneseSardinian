@@ -1,3 +1,27 @@
+# SM64 Campidanese Sardinian
+
+Preservatzioni de sa Lingua Sarda imparis cun sa nostalgia e is videogiogus
+
+Questa traduzione in Lingua Sarda Campidanese (nello specifico, Campidanese Occidentale) è realizzata per preservare il patrimonio culturale della lingua sarda, e sarà disponibile nonappena terminata in maniera accessibile e gratuita: verrà rilasciata sotto forma di un comodo patch BPS, che sarà applicabile alla rom tramite il sm64 rom patcher online.
+
+La nostra patch è, e sarà sempre gratuita! Se hai pagato per riceverla, chiedi il rimborso!
+Si accettano comunque mancie per il lavoro svolto, per maggiori informazioni contattare (contact info da mettere)
+
+Essendo basato su UltraSM64, oltre a molte altre cose, supporta il rumble come la traduzione italiana di RulesLess!
+
+Obbiettivi Principali:
+-Tradurre interamente il testo del gioco in Sardo Campidanese;
+-Localizzare le immagini che contengono testo
+-Supporto per Emulatore, Nintendo 64, Wii VC, Wii U VC
+-Dare più opzioni di patch, come per esempio permettere di usare la versione PAL per chi dispone di una Nintendo 64 o Wii PAL
+
+Obbiettivi Estesi:
+-Supporto PC Port
+-Supporto SM64 Co-Op DX
+-Supporto per Switch Online e 3D All-Stars
+
+Translation by Jessu Group (founded by BrusciaMau/queerwitch0306)
+
 # UltraSM64
 
 - This repo contains a full decompilation of Super Mario 64 (J), (U), (E), and (SH).
