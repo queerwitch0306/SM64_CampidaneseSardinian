@@ -10,14 +10,21 @@ Si accettano comunque mancie per il lavoro svolto, per maggiori informazioni con
 Essendo basato su UltraSM64, oltre a molte altre cose, supporta il rumble come la traduzione italiana di RulesLess!
 
 Obbiettivi Principali:
+
 -Tradurre interamente il testo del gioco in Sardo Campidanese;
+
 -Localizzare le immagini che contengono testo
+
 -Supporto per Emulatore, Nintendo 64, Wii VC, Wii U VC
+
 -Dare più opzioni di patch, come per esempio permettere di usare la versione PAL per chi dispone di una Nintendo 64 o Wii PAL
 
 Obbiettivi Estesi:
+
 -Supporto PC Port
+
 -Supporto SM64 Co-Op DX
+
 -Supporto per Switch Online e 3D All-Stars
 
 Translation by Jessu Group (founded by BrusciaMau/queerwitch0306)
